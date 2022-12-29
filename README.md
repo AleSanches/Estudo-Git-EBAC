@@ -1,2 +1,2 @@
 # Estudo-Git-EBAC
-Repositório criado no módulo Git/GitHub - Controle de versionamento
+Repositório criado no módulo Git/GitHub - Controle de versionamento da EBAC
